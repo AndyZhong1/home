@@ -1,0 +1,25 @@
+body
+{   
+    	font-family: "Courier New";		
+    	text-align: justify;
+		background-color:powderblue;
+}
+
+h1
+{
+		font-family:"Courier New";
+		color: red;
+		font-size:80px;
+		text-align: center;
+}
+
+#6
+{
+		font-family: "Courier New";
+		font-size:160%;
+}
+
+.a
+{
+		font-family:"Apple Chancery";
+}
